@@ -1,1 +1,2 @@
 # Gatitolandia
+métodos y herencia
